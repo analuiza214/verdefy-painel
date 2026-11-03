@@ -1,0 +1,10 @@
+{
+  "tipo": "matriz-painel-individual",
+  "status": "configuracao-nova",
+  "deployment": null,
+  "administrator": null,
+  "connections": [],
+  "stores": [],
+  "entry": "ASSISTENTE-CONFIGURACAO-E-USUARIOS.md",
+  "installationModel": "Uma instalação independente por usuário, com painel, recursos e conexões próprios."
+}

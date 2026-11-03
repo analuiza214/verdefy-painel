@@ -1,0 +1,17 @@
+{
+  "name": "gestao-lojas-central",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/*.test.js",
+    "preview": "node preview.js",
+    "check": "node scripts/check.mjs",
+    "test:integrations": "npm --prefix integrations/meta-reference test"
+  },
+  "devDependencies": {
+    "wrangler": "^4.156.1"
+  },
+  "engines": {
+    "node": ">=24"
+  }
+}
